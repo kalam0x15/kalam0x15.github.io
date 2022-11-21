@@ -1,0 +1,54 @@
+body{
+    background-color: #dddddd;
+}
+.bg-color{
+    background-color: #764ffe;
+    border-bottom: 4px solid #fff;
+}
+
+.slider .card{
+    background-color: #fff;
+    transition: .5s;
+    border-radius: 10px;
+    justify-content: center;
+
+}
+.slider .card img{
+    border-radius: 10px 10px 0px 0px;
+}
+
+.slider .card:hover{
+    box-shadow: 0px 0px 10px #764ffe;
+    background-color:  #764ffe;
+    color: #fff;
+
+}
+
+.about_me{
+    border-radius: 5px;
+    background-color: #764ffe;
+    color: #fff;
+}
+.about_me p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.bottom_content{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+.bottom_content .logos{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+
+
+.bottom_content .logos img{
+    margin-left: 30px;
+    width: 45px;
+}
