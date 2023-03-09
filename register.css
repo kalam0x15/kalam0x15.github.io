@@ -1,0 +1,13 @@
+body{
+    background-color: #fff;
+}
+
+.container{
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px  solid gray;
+    margin: 20% 35% 100px 35%;
+    background-color: white;
+    padding: 2% 5% 5% 5%;
+    border-radius: 5px;
+}
